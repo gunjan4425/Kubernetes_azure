@@ -1,0 +1,1 @@
+https://github.com/stacksimplify/azure-aks-kubernetes-masterclass/tree/master/04-Kubernetes-Fundamentals-with-YAML/04-02-PODs-with-YAML
